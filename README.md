@@ -1,4 +1,2 @@
 # onmyoji
-今天又是元气满满的一天
-这是关于阴阳师的
-哈赛尅
+Added super ghost king function
